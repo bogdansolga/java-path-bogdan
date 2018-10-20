@@ -13,11 +13,10 @@ public class CollectionsShowcase {
 
     public static void main(String[] args) {
         lists();
-        if (true) return;
 
-        //sets();
+        sets();
 
-        //maps();
+        maps();
     }
 
     private static void lists() {
