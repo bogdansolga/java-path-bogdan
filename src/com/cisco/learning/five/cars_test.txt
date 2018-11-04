@@ -1,4 +1,9 @@
 Write a program which uses a Car class to showcase the usage of the main collection types - List, Set and Map.
+The following collection types will be used:
+    - for lists: ArrayList and LinkedList
+    - for sets: HashSet and TreeSet
+    - for maps: HashMap and TreeMap
+
 Featured operations:
 	- adding cars to the collection
 	- displaying the added cars
