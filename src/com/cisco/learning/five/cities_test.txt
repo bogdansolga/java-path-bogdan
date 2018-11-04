@@ -1,0 +1,24 @@
+Write a program which uses a City class to showcase the usage of the main collection types - List, Set and Map.
+The following collection types will be used:
+    - for lists: ArrayList and LinkedList
+    - for sets: HashSet and TreeSet
+    - for maps: HashMap and TreeMap
+
+Featured operations:
+	- adding cities to the collection
+	- displaying the added cities
+	- removing a city by index or key
+
+The City class has the following properties:
+	- country
+	- name
+	- tourismIndex
+	- beautyIndex
+
+Two cities are considered equal if they have the same country, name and beautyIndex.
+The cars sorting will be done based on their country, name and tourismIndex.
+
+When iterating over the cars collection, display them using the internal 'toString' method.
+
+
+Please do not copy & paste code from any previous test; write the classes and the methods from scratch.

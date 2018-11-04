@@ -1,0 +1,24 @@
+Write a program which uses a Monkey class to showcase the usage of the main collection types - List, Set and Map.
+The following collection types will be used:
+    - for lists: ArrayList and LinkedList
+    - for sets: HashSet and TreeSet
+    - for maps: HashMap and TreeMap
+
+Featured operations:
+	- adding monkeys to the collection
+	- displaying the added monkeys
+	- removing a car by index or key
+
+The Monkey class has the following properties:
+	- race
+	- name
+	- age
+	- ugliness
+
+Two monkeys are considered equal if they have the race, name and age.
+The monkeys sorting will be done based on their race, age and ugliness.
+
+When iterating over the monkeys collection, display them using the internal 'toString' method.
+
+
+Please do not copy & paste code from any previous test; write the classes and the methods from scratch.
