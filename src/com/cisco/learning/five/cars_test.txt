@@ -19,3 +19,6 @@ Two cars are considered equal if they have the same producer, model and rating.
 The cars sorting will be done based on their producer, model and rating.
 
 When iterating over the cars collection, display them using the internal 'toString' method.
+
+
+Please do not copy & paste code from any previous test; write the classes and the methods from scratch.
