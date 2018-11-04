@@ -1,0 +1,16 @@
+Write a program which uses a Car class to showcase the usage of the main collection types - List, Set and Map.
+Featured operations:
+	- adding cars to the collection
+	- displaying the added cars
+	- removing a car by index or key
+
+The Car class has the following properties:
+	- producer
+	- model
+	- vin (Vehicle Identification Number)
+	- rating
+
+Two cars are considered equal if they have the same producer, model and rating. 
+The cars sorting will be done based on their producer, model and rating.
+
+When iterating over the cars collection, display them using the internal 'toString' method.
