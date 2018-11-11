@@ -1,0 +1,2 @@
+- Pick a short phrase from your favorite book, regardless of the domain (boxing, math, girls, cats, ...)
+- Apply the String operations on that text, including the StringTokenizer and StringBuilder
