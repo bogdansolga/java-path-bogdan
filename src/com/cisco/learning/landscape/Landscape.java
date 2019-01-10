@@ -13,6 +13,8 @@ public class Landscape {
 
     private Set<Lake> lakes;
 
+    private List<AbstractAnimal> animals;
+
     public Landscape() {
         trees = new ArrayList<>();
         lakes = new HashSet<>();
@@ -40,6 +42,14 @@ public class Landscape {
 
     public void setLakes(Set<Lake> lakes) {
         this.lakes = lakes;
+    }
+
+    public List<AbstractAnimal> getAnimals() {
+        return animals;
+    }
+
+    public void setAnimals(List<AbstractAnimal> animals) {
+        this.animals = animals;
     }
 
     public void addLake(Lake lake) {

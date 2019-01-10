@@ -14,5 +14,7 @@ public class LandscapeMain {
         azores.addLake(lake);
 
         azores.displayLandscapeProperties();
+
+        //TODO the landscape _must_ have cats in it
     }
 }
