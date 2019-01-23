@@ -16,5 +16,8 @@ public class LandscapeMain {
         azores.displayLandscapeProperties();
 
         //TODO the landscape _must_ have cats in it
+
+        //TODO create a menu for building the landscape
+        //TODO add the option to save and load the landscape elements in/from a file
     }
 }
